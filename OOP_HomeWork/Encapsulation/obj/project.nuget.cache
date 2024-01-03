@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQKa5e3a3Ch7Uk8nsbfDI8lkxBC6S9YU1vAm9RzTbWUfPMWYB7BEa/7IX52ufuCm8OModP68WCG3nGEGmFKp3w==",
+  "success": true,
+  "projectFilePath": "E:\\OneDrive\\Desktop\\FPTAcademy_2023\\ALLL\\NPL\\New folder\\OOP_HomeWork\\Encapsulation\\Encapsulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phucp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

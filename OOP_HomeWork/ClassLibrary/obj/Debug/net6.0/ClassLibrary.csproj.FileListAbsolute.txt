@@ -1,0 +1,4 @@
+E:\OneDrive\Desktop\FPTAcademy_2023\ALLL\NPL\New folder\OOP_HomeWork\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Desktop\FPTAcademy_2023\ALLL\NPL\New folder\OOP_HomeWork\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+E:\OneDrive\Desktop\FPTAcademy_2023\ALLL\NPL\New folder\OOP_HomeWork\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+E:\OneDrive\Desktop\FPTAcademy_2023\ALLL\NPL\New folder\OOP_HomeWork\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
