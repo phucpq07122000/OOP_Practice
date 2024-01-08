@@ -3,7 +3,8 @@
 +built according to the cleave architecture design pattern\
 +and the project is made by 4 members
 # Role_Project 
-## **1. Customer** : This is the default role for all signed-in users. You can browse products, add them to your cart, place orders, and transfer money.##					
+## **1. Customer** 
+-This is the default role for all signed-in users. You can browse products, add them to your cart, place orders, and transfer money.				
 #### Customer (No login) Functions
 
      a. **ViewAllListProduct()**
