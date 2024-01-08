@@ -30,9 +30,32 @@
      
      j. **Register()**
           - Description: Allows new customers to create an account.
+# Customer (Login) Functions
+
+      a. CRUD Profile Customer
+      -Update Profile:** Allows customers to update their profile information.
+   - **View Profile:** Displays the customer's profile information.
+
+### b. CRUD Cart
+   - **Update Cart:** Allows customers to update the quantity of products in their shopping cart.
+   - **Create Cart:** Enables customers to create a new shopping cart.
+   - **Delete Product:** Allows customers to remove a product from their shopping cart.
+
+### c. View Order
+   - **Description:** Displays a list of customer orders.
+      - **View Order by Money:** Provides a view of orders based on the total amount spent.
+      - **View Order by Date:** Displays orders sorted by date.
+
+### h. Rating
+   - **Description:** Enables customers to rate products they have purchased.
+
+### j. Comment
+   - **Description:** Allows customers to leave comments or feedback on products or the overall shopping experience.
+
+
  
 ## **2. Store Owner**:
-     -This role is assigned to users who are storekeepers. You can do everything that a Store Employee can do, plus You can add, update, and remove your products, store employees, and revenue statistics of your store.
+-This role is assigned to users who are storekeepers. You can do everything that a Store Employee can do, plus You can add, update, and remove your products, store employees, and revenue statistics of your store.
 
 ## **3. Super Admin**: 
-     -This role is assigned to users who have full control over the app. You can do everything that an Admin can do, plus you can view, add, or remove Admin Role or Store Owner, Store Employee.
+-This role is assigned to users who have full control over the app. You can do everything that an Admin can do, plus you can view, add, or remove Admin Role or Store Owner, Store Employee.
