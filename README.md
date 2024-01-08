@@ -1,6 +1,5 @@
-"# OOP_Practice" 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+# Tiêu Đề 1
+
+Đây là một đoạn văn bản. *Nghiêng* và **đậm** là cú pháp cơ bản.
+
+## Tiêu Đề 2
