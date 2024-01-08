@@ -59,6 +59,8 @@
  
 ## **2. Store Owner**:
 -This role is assigned to users who are storekeepers. You can do everything that a Store Employee can do, plus You can add, update, and remove your products, store employees, and revenue statistics of your store.
+
+### Store Owner Functions
      a. Manage Products
         - **AddProduct():** Allows the store owner to add a new product to the inventory.
         - **UpdateProduct():** Enables the store owner to modify details of an existing product.
@@ -74,3 +76,15 @@
 
 ## **3. Super Admin**: 
 -This role is assigned to users who have full control over the app. You can do everything that an Admin can do, plus you can view, add, or remove Admin Role or Store Owner, Store Employee.
+
+### Super Admin Functions
+
+     a. User Management
+        - **Create User:** Allows the super admin to create new user accounts.
+        - **Update User:** Enables modifications to user account details.
+        - **Delete User:** Permits the removal of user accounts from the system.
+
+      b. Role Management
+        - **Create Role:** Provides the ability to create new roles for different levels of access.
+        - **Update Role:** Allows modifications to the permissions and attributes of existing roles.
+        - **Delete Role:** Permits the removal of roles from the system.
