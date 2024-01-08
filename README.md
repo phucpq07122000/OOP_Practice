@@ -31,6 +31,8 @@
      j. **Register()**
           - Description: Allows new customers to create an account.
  
-2. Store Owner: This role is assigned to users who are storekeeper. You can do everything that a Store Employee can do, plus You can add, update, remove your products, store employees and revenue statistics of your own store.
+## **2. Store Owner**:
+     -This role is assigned to users who are storekeepers. You can do everything that a Store Employee can do, plus You can add, update, and remove your products, store employees, and revenue statistics of your store.
 
-3. Super Admin: This role is assigned to users who have full control over the app. You can do everything that a Admin can do, plus you can view, add, or remove Admin Role or Store Owner, Store Employee.
+## **3. Super Admin**: 
+     -This role is assigned to users who have full control over the app. You can do everything that an Admin can do, plus you can view, add, or remove Admin Role or Store Owner, Store Employee.
