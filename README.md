@@ -33,24 +33,27 @@
 # Customer (Login) Functions
 
       a. CRUD Profile Customer
-          -Update Profile:** Allows customers to update their profile information.     
-          -View Profile:** Displays the customer's profile information.
+          -UpdateProfile():** Allows customers to update their profile information.     
+          -ViewProfile():** Displays the customer's profile information.
 
       b. CRUD Cart
-        - Update Cart: Allows customers to update the quantity of products in their shopping cart.
-        - Create Cart: Enables customers to create a new shopping cart.
-        - Delete Product: Allows customers to remove a product from their shopping cart.
+        - UpdateCart(): Allows customers to update the quantity of products in their shopping cart.
+        - CreateCart(): Enables customers to create a new shopping cart.
+        - DeleteProduct(): Allows customers to remove a product from their shopping cart.
 
       c. ViewOrder()
         Description: Displays a list of customer orders.
            - ViewOrderByMoney(): Provides a view of orders based on the total amount spent.
            - ViewOrderByDate(): Displays orders sorted by date.
 
-      h. Rating
+      h. Rating()
         Description: Enables customers to rate products they have purchased.
 
-      j. Comment
+      j. Comment()
         Description: Allows customers to leave comments or feedback on products or the overall shopping experience.
+
+      k. Logout()
+        Description: Logs the customer out of their account.
 
 
  
