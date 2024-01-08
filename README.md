@@ -33,8 +33,8 @@
 # Customer (Login) Functions
 
       a. CRUD Profile Customer
-      -Update Profile:** Allows customers to update their profile information.
-   - **View Profile:** Displays the customer's profile information.
+      -Update Profile:** Allows customers to update their profile information.     
+      -View Profile:** Displays the customer's profile information.
 
 ### b. CRUD Cart
    - **Update Cart:** Allows customers to update the quantity of products in their shopping cart.
