@@ -30,7 +30,7 @@
      
      j. **Register()**
           - Description: Allows new customers to create an account.
-# Customer (Login) Functions
+### Customer (Login) Functions
 
       a. CRUD Profile Customer
           -UpdateProfile():** Allows customers to update their profile information.     
