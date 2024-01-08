@@ -46,13 +46,13 @@
            - ViewOrderByMoney(): Provides a view of orders based on the total amount spent.
            - ViewOrderByDate(): Displays orders sorted by date.
 
-      h. Rating()
+      d. Rating()
         Description: Enables customers to rate products they have purchased.
 
-      j. Comment()
+      h. Comment()
         Description: Allows customers to leave comments or feedback on products or the overall shopping experience.
 
-      k. Logout()
+      j. Logout()
         Description: Logs the customer out of their account.
 
 
