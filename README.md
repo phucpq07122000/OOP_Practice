@@ -80,11 +80,13 @@
 ### Super Admin Functions
 
      a. User Management
-        - **Create User:** Allows the super admin to create new user accounts.
-        - **Update User:** Enables modifications to user account details.
-        - **Delete User:** Permits the removal of user accounts from the system.
+        - **CreateUser():** Allows the super admin to create new user accounts.
+        - **UpdateUser():** Enables modifications to user account details.
+        - **DeleteUser():** Permits the removal of user accounts from the system.
 
       b. Role Management
-        - **Create Role:** Provides the ability to create new roles for different levels of access.
-        - **Update Role:** Allows modifications to the permissions and attributes of existing roles.
-        - **Delete Role:** Permits the removal of roles from the system.
+        - **CreateRole():** Provides the ability to create new roles for different levels of access.
+        - **UpdateRole():** Allows modifications to the permissions and attributes of existing roles.
+        - **DeleteRole():** Permits the removal of roles from the system.
+        
+     c. **CreateDiscounts():** Allows the store owner to create special discounts for products.
