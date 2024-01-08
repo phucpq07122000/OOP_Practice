@@ -1,7 +1,13 @@
+# Project Ecommerce_Store
++The project is coded according to the idea of an e-commerce store\
++built according to the cleave architecture design pattern\
++and the project is made by 4 members
+# Role_Project 
+1. Customer: This is the default role for all signed-in users. You can browse products, add them to your cart, place orders, and transfer money.					
 ## Customer (No login) Functions
 
 a. **ViewAllListProduct()**
-   - Description: Displays a list of all available products.
+     - Description: Displays a list of all available products.
      
 b. **ViewDetailsProduct()**
    - Description: Allows customers to view detailed information about a specific product.
@@ -21,9 +27,9 @@ f. **Filter()**
 g. **Login()**
    - Description: Allows customers to log in to their accounts.
      
-h. **Logout()**
-   - Description: Logs the customer out of their account.
-     
-9. **Register()**
-   - Description: Allows new customers to create an account.
-     
+j. **Register()**
+     - Description: Allows new customers to create an account.
+ 
+2. Store Owner: This role is assigned to users who are storekeeper. You can do everything that a Store Employee can do, plus You can add, update, remove your products, store employees and revenue statistics of your own store.
+
+3. Super Admin: This role is assigned to users who have full control over the app. You can do everything that a Admin can do, plus you can view, add, or remove Admin Role or Store Owner, Store Employee.
