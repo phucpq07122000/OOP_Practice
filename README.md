@@ -30,14 +30,14 @@
      
      j. **Register()**
           - Description: Allows new customers to create an account.
-# Customer (Login) Functions
+### Customer (Login) Functions
 
       a. CRUD Profile Customer
           -UpdateProfile():** Allows customers to update their profile information.     
           -ViewProfile():** Displays the customer's profile information.
 
       b. CRUD Cart
-        - UpdateCart(): Allows customers to update the quantity of products in their shopping cart.
+        - UpdateCart(): Allows customers to update the number of products in their shopping cart.
         - CreateCart(): Enables customers to create a new shopping cart.
         - DeleteProduct(): Allows customers to remove a product from their shopping cart.
 
